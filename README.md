@@ -2,6 +2,8 @@
 
 ## Objectiv
 Performing an end-to-end analysis putting into practice what I have learned so far. Get a model to predict wether the offer will be accepted or not.
+To organize myself, I used the Kanban Methode from the "Projects" section of Github.
+
 
 ## Questions
 The project is splitted into three parts which should be worked on in different environments:
