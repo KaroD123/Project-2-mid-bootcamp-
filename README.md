@@ -2,6 +2,7 @@
 
 ## Objectiv
 Performing an end-to-end analysis putting into practice what I have learned so far. Get a model to predict wether the offer will be accepted or not.
+
 To organize myself, I used the Kanban methode from the "Projects" section of Github.
 
 
@@ -51,12 +52,21 @@ After that, I tried differten classifiers:
 
 ## Libraries
 import pymysql
+
 from sqlalchemy import create_engine
+
 import pandas as pd
+
 import numpy as np
+
 import getpass
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 import scipy.stats as stats
+
 import os
+
 import statsmodels.api as sm
