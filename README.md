@@ -2,7 +2,7 @@
 
 ## Objectiv
 Performing an end-to-end analysis putting into practice what I have learned so far. Get a model to predict wether the offer will be accepted or not.
-To organize myself, I used the Kanban Methode from the "Projects" section of Github.
+To organize myself, I used the Kanban methode from the "Projects" section of Github.
 
 
 ## Questions
