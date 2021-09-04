@@ -2,7 +2,11 @@
 
 ![photo](https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/9108/bank-clipart-md.png)
 
-## Objectiv
+## Background & Objectiv
+**Background**: You are working as a risk analyst with a bank. Apart from the other banking and loan services, the bank also provides credit card services which is a very important source of revenue for the bank. The bank wants to understand the demographics and other characteristics of its customers that accept a credit card offer and that do not accept a credit card.
+Usually the observational data for these kinds of problems is somewhat limited in that often the company sees only those who respond to an offer. To get around this, the bank designs a focused marketing study, with 18,000 current bank customers. This focused approach allows the bank to know who does and does not respond to the offer, and to use existing demographic data that is already available on each customer.
+
+
 Performing an end-to-end analysis putting into practice what I have learned so far. Get a model to predict wether the offer will be accepted or not.
 
 To organize myself, I used the Kanban methode from the "Projects" section of Github.
@@ -22,9 +26,6 @@ Your senior management has also posted these other questions that will help them
 
 ## Dataset 
 In this project, I used the provided [**creditcardmarketing**](https://github.com/Ironhack-Data-0621-Remote/mid-bootcamp-project/tree/master/classification/data) dataset.
-
-**Background**: You are working as a risk analyst with a bank. Apart from the other banking and loan services, the bank also provides credit card services which is a very important source of revenue for the bank. The bank wants to understand the demographics and other characteristics of its customers that accept a credit card offer and that do not accept a credit card.
-Usually the observational data for these kinds of problems is somewhat limited in that often the company sees only those who respond to an offer. To get around this, the bank designs a focused marketing study, with 18,000 current bank customers. This focused approach allows the bank to know who does and does not respond to the offer, and to use existing demographic data that is already available on each customer.
 
 **Data**: The data set consists of information on 18,000 current bank customers in the study. These are the definitions of data points provided:
 
