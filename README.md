@@ -1,6 +1,6 @@
 # Project-2 (mid-bootcamp) - Classification
 
-![photo](https://wikiclipart.com/wp-content/uploads/2016/11/Bank-clip-art-free-clipart-images.jpg)
+![photo](https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/9108/bank-clipart-md.png)
 
 ## Objectiv
 Performing an end-to-end analysis putting into practice what I have learned so far. Get a model to predict wether the offer will be accepted or not.
