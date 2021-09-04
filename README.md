@@ -62,22 +62,22 @@ If you are only interessted in the best True Yes rate, than you should use Logis
 
 
 ## Libraries
-import pymysql
+pymysql
 
-from sqlalchemy import create_engine
+sqlalchemy import create_engine
 
-import pandas as pd
+pandas
 
-import numpy as np
+numpy
 
-import getpass
+getpass
 
-import matplotlib.pyplot as plt
+matplotlib.pyplot
 
-import seaborn as sns
+seaborn
 
-import scipy.stats as stats
+scipy.stats
 
-import os
+os
 
-import statsmodels.api as sm
+statsmodels.api
