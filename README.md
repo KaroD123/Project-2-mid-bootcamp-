@@ -7,7 +7,7 @@
 Usually the observational data for these kinds of problems is somewhat limited in that often the company sees only those who respond to an offer. To get around this, the bank designs a focused marketing study, with 18,000 current bank customers. This focused approach allows the bank to know who does and does not respond to the offer, and to use existing demographic data that is already available on each customer.
 
 
-Performing an end-to-end analysis putting into practice what I have learned so far. Get a model to predict wether the offer will be accepted or not.
+**Objective**: Performing an end-to-end analysis putting into practice what I have learned so far. Get a model to predict wether the offer will be accepted or not. Additional playing with the data in MySQL and Tableau.
 
 To organize myself, I used the Kanban methode from the "Projects" section of Github.
 
