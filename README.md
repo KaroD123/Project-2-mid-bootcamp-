@@ -11,6 +11,7 @@ The project is splitted into three parts which should be worked on in different 
   1. MySQL Workbench
   2. Python
   3. Tableau
+
 For every part there are different Questions that should be answerd. They can be found in the coresponding solution files.
 
 ### Main Objectiv for Python:
