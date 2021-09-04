@@ -51,6 +51,13 @@ After that, I tried differten classifiers:
 - KNNClassifier with different n_neighbors and with SMOTE data
 - DecisionTreeClassifier with differen class weights
 
+The last step was answering the Tableau Questions and creating the diagramms.
+
+## Conclusion
+For the Python part:
+If you are only interessted in the best True Yes rate, than you should use LogisticRegression with specific weights and SMOTE for the train set. But keep in mind that you also get a high False No rate.
+
+
 ## Libraries
 import pymysql
 
